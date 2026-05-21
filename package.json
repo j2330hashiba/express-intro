@@ -1,0 +1,25 @@
+{
+  "name": "express-intro",
+  "version": "1.0.0",
+  "description": "introduction of express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j2330hashiba/express-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/j2330hashiba/express-intro/issues"
+  },
+  "homepage": "https://github.com/j2330hashiba/express-intro#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
